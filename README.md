@@ -91,7 +91,9 @@ I am passionate about **artificial intelligence, machine learning, and big data 
 ## 📬 Let's Connect!  
 
 💼 **LinkedIn**: https://www.linkedin.com/in/muhannad-khaled/ 
+
 📂 **GitHub**: https://github.com/Muhannad-Khaled 
+
 📧 **Email**: muhannadkhaledd@gmail.com   
 
 🚀 Let's innovate together and build impactful AI solutions!  
