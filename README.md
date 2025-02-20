@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhannad Khaled  
 
-🚀 **Data Scientist | AI Engineer | ML Engineer**  
+🚀 **Data Scientist | AI Engineer**  
 
 I am passionate about **artificial intelligence, machine learning, and big data analytics**, leveraging AI to solve real-world problems and drive business impact. With expertise in **deep learning, NLP, computer vision, and MLOps**, I specialize in building scalable, production-ready AI solutions.  
 
